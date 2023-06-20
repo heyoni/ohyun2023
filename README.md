@@ -9,6 +9,9 @@ https://dirt-record-7f9.notion.site/2-6-13-f4dcbac7bfb146e39de5459ced310760?pvs=
 ## 3차시
 https://dirt-record-7f9.notion.site/3-6-15-858f775466e1435d82fee2251e4de16f?pvs=4
 
+## 4차시
+https://dirt-record-7f9.notion.site/4-6-20-6d12030474f2419e85e1d6cb3f223234?pvs=4
+
 ## 기본 실행 방법
 
 1. 가상환경 설치하고 들어가기
